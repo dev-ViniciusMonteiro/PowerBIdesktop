@@ -1,0 +1,5 @@
+ID Produto	Produto	Tipo 
+1	Sapato	Calçado
+2	Tenis	Calçado
+3	Desodorante	Perfumaria
+4	Shampoo	Cuidados Pessoais
